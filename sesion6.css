@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  background-color: black;
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  color: brown;
+}
+
+.miparrafo {
+  color: dodgerblue;
+}
+
+div p {
+  color: aquamarine;
+}
+
+.miparrafo p {
+  color: antiquewhite;
+}
